@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.dylib
+*.json
+.vscode/
+.ipynb_checkpoints/
